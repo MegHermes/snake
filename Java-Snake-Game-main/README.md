@@ -1,10 +1,10 @@
 # Java Snake Game
 
-A complete java snake game with many features!
+A java snake game
 
 ## Sample
 
-https://user-images.githubusercontent.com/97180951/173223971-2644c216-2993-4f14-b0e9-52b72217e99f.mov
-
 javac -d bin snakey/src/snakey/\*.java
 java -classpath bin snakey.Game
+<img width="637" alt="App running 2" src="https://github.com/MegHermes/snake/assets/68392405/9e7866f3-b1e3-40d3-8d5f-5ed4285f54fc">
+<img width="679" alt="App running 1" src="https://github.com/MegHermes/snake/assets/68392405/a8b06d4e-90fd-4b66-b480-9fe2f4338d41">
